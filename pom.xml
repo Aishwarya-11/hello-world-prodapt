@@ -4,7 +4,7 @@
 	<groupId>com.efsavage</groupId>
 	<artifactId>hello-world-prodapt</artifactId>
 	<version>1.0.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>MyProject-Aish-1</name>
 	<description>Simplest possible Java Webapp</description>
 
