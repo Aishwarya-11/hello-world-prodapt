@@ -4,8 +4,8 @@
 	<groupId>com.efsavage</groupId>
 	<artifactId>hello-world-prodapt</artifactId>
 	<version>1.0.0</version>
-	<packaging>jar</packaging>
-	<name>Prodapt_test20</name>
+	<packaging>war</packaging>
+	<name>test20_test20_test20</name>
 	<description>Simplest possible Java Webapp</description>
 
 	<build>
