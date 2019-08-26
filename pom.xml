@@ -5,7 +5,7 @@
 	<artifactId>hello-world-prodapt</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
-	<name>My_Project_Aishwarya_97</name>
+	<name>Prodapt_test20</name>
 	<description>Simplest possible Java Webapp</description>
 
 	<build>
